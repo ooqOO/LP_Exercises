@@ -1,0 +1,1 @@
+Problem 12.23 from Model Building in Mathematical Programming. H.P. Williams, Wiley, 5th edition, 2013
